@@ -1,0 +1,8 @@
+mkdir krishna
+cd krishna
+mkdir sub dir 1
+cat>file1.txt
+cat> file2.txt
+cat>file3.sh
+cd file1.sh to display content in file
+
